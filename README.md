@@ -3,7 +3,7 @@ Equipe 3:
          Amardeep
          Hilaire
          Jian - jianguo77
-         Mahmadou
+         Mamadou
 Contexte
         1.	Secteur d’industrie : Recherche et Marketing
         2.	Contexte : Les entreprises ont traditionnellement effectué des études de marché en menant des enquêtes pour savoir ce que les consommateurs veulent et ont besoin. Cette méthode suppose cependant que les préférences énoncées sont correctes et reflètent les actions futures. Mais ce n'est pas toujours le cas. Une autre approche populaire dans les études de marché consiste à utiliser des méthodes comportementales où les réactions des utilisateurs sont observées, tout en interagissant avec une marque ou un produit. Bien qu'efficaces, ces techniques peuvent rapidement devenir très exigeantes en main-d'œuvre à mesure que la taille de l'échantillon augmente. Dans de telles circonstances, la technologie de reconnaissance des expressions faciales peut sauver la situation en permettant aux entreprises de mener des études de marché et de mesurer automatiquement les expressions faciales des émotions à chaque instant, ce qui facilite l'agrégation des résultats.
